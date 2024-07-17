@@ -31,11 +31,11 @@ body {
 }
 
 #clicker:hover {
-  transform: scale(0.8;
+  transform: scale(0.7;
 }
 
 #clicker:active {
-  transform: scale(0.5);
+  transform: scale(0.4;
 }
 
 #themechange {
